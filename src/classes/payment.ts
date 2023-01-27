@@ -2,7 +2,7 @@ class Payment implements HasFormatter {
 
     constructor(readonly receipient: string, public details: string, private amount: number) {}
 
-    format() {
+    format(): string {
         return ` ${this.receipient} is owed ${this.amount} for ${this.details}`;
     }
 }
