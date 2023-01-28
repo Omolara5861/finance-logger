@@ -1,4 +1,6 @@
-class Invoice implements HasFormatter {
+import { HasFormatter } from "../interfaces/interface";
+
+export class Invoice implements HasFormatter {
     constructor(readonly client: string, public details: string, private amount: number) {}
 
     format(): string {

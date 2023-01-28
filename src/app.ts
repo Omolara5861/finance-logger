@@ -1,3 +1,7 @@
+import {  ListTemplate} from "./classes/list-template";
+import {  Invoice} from "./classes/invoice";
+import {  Payment} from "./classes/payment";
+import { HasFormatter } from "./interfaces/interface";
 
 const loggerForm = document.querySelector('form') as HTMLFormElement;
 const type = document.getElementById('type') as HTMLSelectElement;

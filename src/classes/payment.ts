@@ -1,4 +1,6 @@
-class Payment implements HasFormatter {
+import { HasFormatter } from "../interfaces/interface";
+
+export class Payment implements HasFormatter {
 
     constructor(readonly receipient: string, public details: string, private amount: number) {}
 
