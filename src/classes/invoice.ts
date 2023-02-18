@@ -1,4 +1,4 @@
-import { HasFormatter } from "../interfaces/interface";
+import { HasFormatter } from "../interfaces/interface.js";
 
 export class Invoice implements HasFormatter {
     constructor(readonly client: string, public details: string, private amount: number) {}
