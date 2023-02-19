@@ -2,7 +2,7 @@
   "name": "finance-logger",
   "version": "1.0.0",
   "description": "This is a simple logging application written in TypeScript. The application allows the user to enter details about a payment or invoice and then adds that information to a list of transactions.",
-  "main": "app.js",
+  "main": "app.ts",
   "scripts": {
     "start": "tsc"
   },
