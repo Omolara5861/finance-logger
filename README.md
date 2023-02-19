@@ -5,7 +5,7 @@ This is a simple logging application written in TypeScript. The application allo
 
 ## Preview
 
-![The homepage that shows the request info and displays the users fetched from the API in a table](logger.png "Project Homepage")
+![The project Interface](logger.png)
 
 ## Installation
 To install and run this TypeScript project, you will need to have the following tools installed:
