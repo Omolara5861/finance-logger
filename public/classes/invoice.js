@@ -8,6 +8,6 @@ export class Invoice {
     }
     // Implement the format method required by the HasFormatter interface
     format() {
-        return `${this.client} owes ${this.amount} for ${this.details}`;
+        return `${this.client} owes €${this.amount} for ${this.details}`;
     }
 }

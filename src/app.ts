@@ -33,4 +33,7 @@ loggerForm.addEventListener('submit', (e: Event) => {
 
     // Add a new item to the list with the properties of the created object, based on the selected position
     list.render(doc, type.value, 'start');
+
+    // Reset the form fields
+    loggerForm.reset();
 });
