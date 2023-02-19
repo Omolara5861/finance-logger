@@ -1,0 +1,20 @@
+{
+  "name": "finance-logger",
+  "version": "1.0.0",
+  "description": "This is a simple logging application written in TypeScript. The application allows the user to enter details about a payment or invoice and then adds that information to a list of transactions.",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Omolara5861/finance-logger"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omolara5861/finance-logger/issues"
+  },
+  "homepage": "https://github.com/Omolara5861/finance-logger#readme"
+}
