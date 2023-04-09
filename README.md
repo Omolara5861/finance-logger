@@ -46,9 +46,12 @@ The project consists of several TypeScript files that are used to create invoice
 ## Technologies
 This project was built with VS Code using:
 
-+ HTML
-+ CSS
-+ TypeScript
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+And deployed on: <br />
+	![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## License
